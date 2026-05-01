@@ -12,3 +12,7 @@ Primary Model: XGBoost is utilized for its efficiency in handling tabular data a
 Sale Price: ~$180,921.Average
 Living Area: ~1,515 sq. ft..
 Standard Dwelling: Typically 3 bedrooms with a construction/remodel median around 1971.
+
+
+Check here out for app
+streamlit app : https://house-price-prediction-xgboost-9kfg395npv5a3h3b254tge.streamlit.app/
