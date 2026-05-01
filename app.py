@@ -11,8 +11,8 @@ from streamlit_option_menu import option_menu
 @st.cache_resource
 def load_assets():
     # Loading the brain and the scaler
-    m = joblib.load("model/model.pkl")
-    s = joblib.load("model/scaler.pkl")
+    m = joblib.load("model.pkl")
+    s = joblib.load("scaler.pkl")
     return m, s
 
 @st.cache_data
